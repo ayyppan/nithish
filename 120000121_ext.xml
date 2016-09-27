@@ -1,0 +1,191 @@
+<html><tblcnt>0</tblcnt><figcnt>0</figcnt><filefpg>5196</filefpg><filelpg>5198</filelpg><body><div class="WordSection1"><div class="front"><table class="meta" border="1" width="100%"><tbody><tr><td>DOI</td><td class="bookDoi">10.1081/E-ESCS</td></tr><tr><td>Publisher ID</td><td class="bookPubID">E-ESCS</td></tr><tr><td>Article ID</td><td class="bookArtID">120000121</td></tr><tr><td>Book Title</td><td class="bookTitle">Encyclopedia of Surface and Colloid Science, Second Edition</td></tr><tr><td>ISBN - print</td><td class="bookPpub">978-0-8493-9615-1</td></tr><tr><td>ISBN - online</td><td class="bookEpub">978-0-8493-9614-4</td></tr><tr><td>Book Part ID</td><td class="bookPartPubOther">a0121</td></tr></tbody></table><h1 id="tocSeqID1" class="jrnlArtTitle">Oxide Surfaces: Redox Processes and Adsorption Effects</h1><p class="jrnlAuthors"><span class="jrnlAuthor"><span class="jrnlGivenName">Robson Fernandes</span>
+ <span class="jrnlSurName">de Farias</span>
+<span rid="AF1" class="jrnlAffRef"></span>
+</span>
+</p><p id="AF1" class="jrnlAff"><span class="jrnlDepartment">Department of Chemistry</span>
+, <span class="jrnlInstitution">Federal University of Roraima</span>
+, <span class="jrnlCity">Roraima</span>
+, <span class="jrnlCountry">Brazil</span>
+</p><h1 id="tocSeqID2" class="jrnlAbsHead">Abstract</h1><p class="jrnlAbsPara">Metal oxides can be artificially divided into oxides of transition metals, which constitute a group of solids exhibiting a wide variety of magnetic and electrical properties, and oxides of nontransition metals, which are diamagnetic insulators, at least under ordinary conditions. The main purpose of this entry is to explore the effects of adsorption on redox processes occurring on oxide surfaces. The sections of the entry elaborate on the process of differentiating between an oxidation&ndash;reduction process occurring on an adsorbed chemical species and an oxidation&ndash;reduction process occurring on the oxide itself.</p><p class="jrnlKeywordPara"><span class="jrnlKeyword">Keywords: oxides, adsorption, metals, diamagnetic, redox</span>
+</p></div><div class="body"><h1 id="tocSeqID3" class="jrnlHead1">Introduction</h1><p class="jrnlSecPara">As with many other chemical species, the oxides M<sub>x</sub>O<sub>y</sub> can suffer oxidation&ndash;reduction processes. Such redox processes could be affected by the adsorption of another chemical species on the oxide surface. The strength and specific character of the observed effects will be dependent on the oxide itself as well as on the nature of the adsorbed species.</p><p class="jrnlSecPara">Metal oxides can be artificially divided into oxides of transition metals, which constitute a group of solids exhibiting a wide variety of magnetic and electrical properties, and oxides of nontransition metals, which are diamagnetic insulators, at least under ordinary conditions. Hence, SiO<sub>2</sub> is a typical nontransition metal oxide, whereas TiO<sub>2</sub> exemplifies the former class.<span class="jrnlBibRef" data-citation-string=" 1 "><sup>[1]</sup></span>
+ Due to the unique nature of their outer <em>d</em> electrons, transition metal oxides are widely explored for applications such as in the synthesis of superconducting materials.<span class="jrnlBibRef" data-citation-string=" 2  3 "><sup>[2,3]</sup></span>
+ In transition metal oxides, the metal&ndash;oxygen bond can vary from highly ionic to covalent or metallic. Furthermore, their resistivity can exhibit values in the range of 10<sup>&minus;10</sup> to 10<sup>20</sup>&thinsp;&Omega;&thinsp;cm, with the <em>d</em>-block transition elements exhibiting narrow electronic bands due to the small overlap between <em>d</em> (from metal) and <em>p</em> (from oxygen) orbitals.<span class="jrnlBibRef" data-citation-string=" 2  3 "><sup>[2,3]</sup></span>
+</p><p class="jrnlSecPara">As the title suggests, the main purpose of this entry is to explore the effects of adsorption on redox process ocurring on oxide surfaces. This means that the oxide itself is the main chemical species to be considered. So, the oxide surface is here considered both an inert or secondary substrate on which another principal chemical species adsorbs, interacts, and desorbs as in catalytic processes and also as the primary chemical system. As a consequence of the previous explanation, one must differentiate between an oxidation&ndash;reduction process occurring on an adsorbed chemical species and an oxidation&ndash;reduction process ocurring on the oxide itself. The following sections will elaborate on these considerations.</p><h1 id="tocSeqID4" class="jrnlHead1">Oxide as a Substrate for Oxidation&ndash;Reduction Processes</h1><p class="jrnlSecPara">It has been demonstrated<span class="jrnlBibRef" data-citation-string=" 4  5 "><sup>[4,5]</sup></span>
+ that oxide compounds such as porous aluminosilicate molecular sieves (e.g., MCM-41) can be used as a substrate to produce modified carbon paste electrodes to investigate copper(II) and mercury(II) species at the MCM-41&ndash;solution interface. In these cases, the silanol groups of the substrate react with copper and mercury species in solution providing selective adsorption, and so producing specific sensors.</p><p class="jrnlSecPara">In the previous examples, the oxide surface is only a substrate where the oxidation&ndash;reduction species adsorbs (chemisorption or physisorption), whereas the oxide itself does not undergo a redox process.</p><h1 id="tocSeqID5" class="jrnlHead1">Effects of Adsorption on the Redox Processes of Oxide Surfaces</h1><p class="jrnlSecPara">In this section, we do not consider oxidation&ndash;reduction processes that occur as a consequence of chemical reactions between the adsorbed species and the substrate (the oxide, in this case). Only adsorbed chemical species that do not change the chemical composition of the oxide surface are discussed. The examples given in the next paragraphs are the only one that could be found in the literature.</p><p class="jrnlSecPara">It has been demonstrated that adsorption of the conducting polymer polyaniline on molybdenum<span class="jrnlBibRef" data-citation-string=" 6 "><sup>[6]</sup></span>
+ and arsenic<span class="jrnlBibRef" data-citation-string=" 7 "><sup>[7]</sup></span>
+ oxides, MoO<sub>3</sub> and As<sub>2</sub>O<sub>3</sub>, respectively, can exert remarkable effects on the redox process suffered by these compounds. Is worth noting that, in both cases, the adsorbed species does not undergo a redox process. Its function is only to facilitate electron transfer between the oxide and the electrode surface. Furthermore, no chemical reactions nor physical transformations of the adsorbed polymer are observed.</p><p class="jrnlSecPara">For MoO<sub>3</sub> it was verified that the cyclic voltammograms of the pure oxide do not exhibit any oxidation&ndash;reduction current, at least under those experimental conditions.<span class="jrnlBibRef" data-citation-string=" 6 "><sup>[6]</sup></span>
+ For the polyaniline-modified (modified PANI) system, however, the voltammogram exhibited a single oxidation&ndash;reduction process, with <em>E</em><sub>ox</sub>&thinsp;=&thinsp;0.33&thinsp;V and <em>E</em><sub><span class="jrnlHighlight">red</span>
+</sub>&thinsp;=&thinsp;0.18&thinsp;V, as shown in Fig. <span class="jrnlFigRef">1</span>
+.</p><p class="jrnlSecPara">Taking into account that, in the potential range used to obtain this voltammogram (from &minus;0.2 to 0.9&thinsp;V), polyaniline exhibits two oxidation&ndash;reduction processes due to the transitions leucoemeraldine&thinsp;&rarr;&thinsp;emeraldine&thinsp;&rarr;&thinsp;pernigraniline<span class="jrnlBibRef" data-citation-string=" 8 "><sup>[8]</sup></span>
+ (with oxidation&ndash;reduction potentials of 0.15/0.0 and 0.65/0.6&thinsp;<em>v</em>, respectively); the same experimental procedure<span class="jrnlBibRef" data-citation-string=" 6  7 "><sup>[6,7]</sup></span>
+ was used to produce ZnO, GeO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub>, SnO<sub>2</sub>, TiO<sub>2</sub>, and Nb<sub>2</sub>O<sub>5</sub> samples with adsorbed polyaniline, in some cases with a higher level of pani deposition. For those oxides, however, no signal was observed in the cyclic voltammograms; therefore, the redox pair observed in the MoO<sub>3</sub>&ndash;polyaniline hybrid, could not be attributed to polyaniline itself but is consequence of an oxidation&ndash;reduction process occurring on the oxide surface.</p><p class="jrnlSecPara">Based on the electrochemical results as well as on a strong color change from <span class="jrnlHighlight">green</span>
+ to intense <span class="jrnlHighlight">blue</span>
+ that is observed in the oxide.pani sample under voltammetric analysis (as can be observed by using an optical microscope or direct visual inspection), the formation of &ldquo;molybdenum <span class="jrnlHighlight">blue</span>
+&rdquo; was inferred.</p><p class="jrnlSecPara">Because molybdenum <span class="jrnlHighlight">blue</span>
+ appears to be an oxide&ndash;hydroxide species of mixed valence, forming a series between the extremes of Mo(VI)O<sub>3</sub> and Mo(V)O(OH)<sub>3</sub>, for which a precise explanation of their color is lacking,<span class="jrnlBibRef" data-citation-string=" 1 "><sup>[1]</sup></span>
+ a precise attribution to the oxidation&ndash;reduction pair presented in Fig. <span class="jrnlFigRef">1</span>
+ is not possible. Some of the reactions that could be taking place are<span class="jrnlBibRef" data-citation-string=" 9  10 "><sup>[9,10]</sup></span>
+<span id="UM0001" class="jrnlDispFormula">       $$  \eqalign{&amp;{\rm MoO}_{3}({\rm cr}) + {\rm H}_{2}{\rm O} = {\rm H}_{2}{\rm MoO}_{4}({\rm sol.})\cr &amp;({\rm MoO}_{2})_{2}{\rm MoO}_{4}\ ({\rm molybdenum\ blue}) + 4{\rm H}_{2}{\rm O} \cr &amp;\qquad= 3{\rm H}_{2}{\rm MoO}_{4}({\rm sol}) + 2{\rm H}^{+} + 2{\rm e}^{-}\cr &amp;{E}^{o} = -0.60 {\rm V}\ 2{\rm H}_{2}{\rm O} + {\rm MoO}_{2}{}^{+}\cr &amp;\quad = {\rm H}_{2}{\rm MoO}_{4}({\rm sol}) + 2{\rm H}^{+} +{\rm e}^{-}\cr &amp; {E}^{o} = -0.40{\rm V}}   $$   </span>
+</p><p class="jrnlSecPara">Despite the uncertainty in the redox process that is taking place, the significant feature is that, from the established experimental conditions, it is evident that molybdenum acts directly in the oxidation&ndash;reduction process because the oxidation&ndash;reduction pair observed is not due to polyaniline. However, when polyaniline is used as an interface between the oxide surface and the eletrode surface, it causes an enhancement of many times the electrochemical response of the oxide surface. This fact is clearly illustrated in the very insensitive scales used to obtain the voltammograms for MoO<sub>3</sub>&thinsp;&middot;&thinsp;pani in the range of 150 to 200&thinsp;&micro;A&thinsp;cm<sup>&minus;1</sup>. By use of a more sensitive current scale in the voltammograms for the pure oxide at 10&thinsp;&micro;A&thinsp;cm<sup>&minus;1</sup> no response was observed, and molybdenum <span class="jrnlHighlight">blue</span>
+ formation was not observed at all.</p><p class="jrnlSecPara">For As<sub>2</sub>O<sub>3</sub>,<span class="jrnlBibRef" data-citation-string=" 7 "><sup>[7]</sup></span>
+ some remarkable effects were also verified when the oxide grains were coated with polyaniline. The cyclic voltammogram of the pure As<sub>2</sub>O<sub>3</sub> and As<sub>2</sub>O<sub>3</sub>&thinsp;&middot;&thinsp;pani samples are shown in Figs. <span class="jrnlFigRef">2</span>
+A&ndash;D.</p><p class="jrnlSecPara">In the potential range from &minus;0.2 to 0.9&thinsp;V, shown in Fig. <span class="jrnlFigRef">2</span>
+A, the pure oxide exhibits only one oxidation&ndash;reduction pair of signals at 0.25/&minus;0.06&thinsp;V. If the voltamogram for arsenic oxide is scanned from &minus;0.5 to 0.9&thinsp;V, as shown in Fig. <span class="jrnlFigRef">2</span>
+B, another redox pair can be observed, with oxidation&ndash;reduction potentials of 0.47/&minus;0.25&thinsp;V. The second observed redox pair could be attributed to <span id="UM0002" class="jrnlDispFormula">       $$  \eqalign{{\rm As}({\rm s}) + 3{\rm H}^{+} + 3&amp;{\rm e}^{-} = {\rm AsH}_{3}({\rm g});\cr &amp;{E}^{o} = -0.24 {\rm V}}   $$   </span>
+and the first one to <span id="UM0003" class="jrnlDispFormula">       $$  \eqalign {{\rm As}_{2}{\rm O}_{3}({\rm s}) + 6{\rm H}^{+} + 6&amp;{\rm e}^{-} = 2{\rm As}({\rm s}) + 3{\rm H}_{2}{\rm O};\cr &amp;{E}^{o} = 0.23{\rm V}}   $$   </span>
+</p><p class="jrnlSecPara">This assignment assumes that polyaniline affects the reduction potential of As<sub>2</sub>O<sub>3</sub>(s).</p><p class="jrnlSecPara">The cyclic voltammograms in the same potential ranges for the polymer-coated oxide samples are shown in Figs. <span class="jrnlFigRef">2</span>
+C and D, respectively. It was observed that both voltammograms exhibited more well-defined oxidation&ndash;reduction peaks in comparison with the pure oxide samples.</p><p class="jrnlSecPara">Based on the fact that polyaniline is a conducting polymer, the transfer of electrons between the electrode and oxide surfaces is favored. In this process the reduction peaks are more strongly influenced than the oxidation ones. In both cases, the sensitivity of the electrode is strongly enhanced, as demonstrated after comparing the current scales used for pure and polymer-coated oxides, which are 5 and 10&thinsp;&micro;A&thinsp;cm<sup>&minus;1</sup>, respectively.</p><p class="jrnlSecPara">The voltammogram in the range from &minus;0.5 to 0.9&thinsp;V showed that the second oxidation peak, which is clearly present in the voltammogram of the pure oxide, disappeared in the polymer-coated oxide sample. However, the first oxidation peak is increased about four times in intensity. One possible explanation for this fact is that polyaniline is interfering in the second redox process, lowering its oxidation potential, and, so, causing an overlap of both processes.</p><h1 id="tocSeqID6" class="jrnlHead1">Conclusions</h1><p class="jrnlSecPara">As demonstrated for MoO<sub>3</sub> and As<sub>2</sub>O<sub>3</sub>, the adsorption of a chemical species (a conducting polymer, polyaniline, in this case) can exert remarkable influences on the redox processes occurring on the oxides surface, enhancing the electrochemical response (signal), or, in other words, enhancing their limits of detection, with possible analytical consequences. Furthermore, the adsorbed species do not react with the oxides surface and this do not change the chemical composition of the surface. Taking into account the enhanced thermal stability that such adsorption process can introduce, as demonstrated for the As<sub>2</sub>O<sub>3</sub><span class="jrnlBibRef" data-citation-string=" 7  11 "><sup>[7,11]</sup></span>
+ and Fe<sub>2</sub>O<sub>3</sub> samples,<span class="jrnlBibRef" data-citation-string=" 11 "><sup>[11]</sup></span>
+ one can envision very interesting applications for this kind of hybrid system.</p></div><div class="back"><h1 id="tocSeqID7" class="jrnlRefHead">References</h1><p id="CIT0001" class="jrnlRefText"><span class="RefSlNo">1.</span>
+ <span class="RefAuthor"><span class="RefSurName">Greenwood</span>
+, <span class="RefGivenNames">N.N.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">Earnshaw</span>
+, <span class="RefGivenNames">A.</span>
+</span>
+ <span class="RefBookTitle">Chemistry of the Elements</span>
+; <span class="RefPublisherName">Butterworth-Heinemann</span>
+: <span class="RefPublisherLoc">Oxford</span>
+, <span class="RefYear">1995</span>
+.</p><p id="CIT0002" class="jrnlRefText"><span class="RefSlNo">2.</span>
+ <span class="RefAuthor"><span class="RefSurName">Gopalakrishnan</span>
+, <span class="RefGivenNames">C.N.R.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">Gopalakrishnan</span>
+, <span class="RefGivenNames">J.</span>
+</span>
+ <span class="RefBookTitle">New Direction in Solid Sate Chem.</span>
+; <span class="RefPublisherName">Cambridge University Press</span>
+: <span class="RefPublisherLoc">Cambridge</span>
+, <span class="RefYear">1997</span>
+.</p><p id="CIT0003" class="jrnlRefText"><span class="RefSlNo">3.</span>
+ <span class="RefAuthor"><span class="RefSurName">Rao</span>
+, <span class="RefGivenNames">C.N.R.</span>
+</span>
+ <span class="RefArticleTitle">Novel materials, materials design and synthetic strategies: <span class="jrnlHighlight">Recent</span>
+ advances and new directions</span>
+. <span class="RefJournalTitle">J. Mater. Chem.</span>
+ <span class="RefYear">1999</span>
+, <span class="RefVolume">9</span>
+ (<span class="RefIssue">1</span>
+), <span class="RefFPage">1</span>
+&ndash;<span class="RefLPage">14</span>
+.</p><p id="CIT0004" class="jrnlRefText"><span class="RefSlNo">4.</span>
+ <span class="RefAuthor"><span class="RefSurName">Walcarius</span>
+, <span class="RefGivenNames">A.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">Despas</span>
+, <span class="RefGivenNames">C.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">Trens</span>
+, <span class="RefGivenNames">P.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">Hudson</span>
+, <span class="RefGivenNames">M.J.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">Bessi&egrave;re</span>
+, <span class="RefGivenNames">J.</span>
+</span>
+ <span class="RefArticleTitle">Voltammetric insitu investigation of an MCM-41-modified carbon paste elctrode- anew sensor</span>
+. <span class="RefJournalTitle">J. Electroanal. Chem.</span>
+ <span class="RefYear">1998</span>
+, <span class="RefVolume">453</span>
+ (<span class="RefIssue">1&ndash;2</span>
+), <span class="RefFPage">249</span>
+&ndash;<span class="RefLPage">252</span>
+.</p><p id="CIT0005" class="jrnlRefText"><span class="RefSlNo">5.</span>
+ <span class="RefAuthor"><span class="RefSurName">Walcarius</span>
+, <span class="RefGivenNames">A.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">Bessi&egrave;re</span>
+, <span class="RefGivenNames">J.</span>
+</span>
+ <span class="RefArticleTitle">Electrochemistry with mesoporous silica: Selective mercury (II) binding</span>
+. <span class="RefJournalTitle">Chem. Mater.</span>
+ <span class="RefYear">1999</span>
+, <span class="RefVolume">11</span>
+ (<span class="RefIssue">11</span>
+), <span class="RefFPage">3009</span>
+&ndash;<span class="RefLPage">3011</span>
+.</p><p id="CIT0006" class="jrnlRefText"><span class="RefSlNo">6.</span>
+ <span class="RefAuthor"><span class="RefSurName">de Farias</span>
+, <span class="RefGivenNames">R.F.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">de Souza</span>
+, <span class="RefGivenNames">J.M.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">de Melo</span>
+, <span class="RefGivenNames">J.V.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">Airoldi</span>
+, <span class="RefGivenNames">C.</span>
+</span>
+ <span class="RefArticleTitle">Effects of adsorbed polyaniline on redox process on MoO<sub>3</sub> surface</span>
+. <span class="RefJournalTitle">J. Colloid Interface Sci.</span>
+ <span class="RefYear">1999</span>
+, <span class="RefVolume">212</span>
+ (<span class="RefIssue">1</span>
+), <span class="RefFPage">123</span>
+&ndash;<span class="RefLPage">129</span>
+.</p><p id="CIT0007" class="jrnlRefText"><span class="RefSlNo">7.</span>
+ <span class="RefAuthor"><span class="RefSurName">de Farias</span>
+, <span class="RefGivenNames">R.F.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">de Souza</span>
+, <span class="RefGivenNames">J.M.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">de Melo</span>
+, <span class="RefGivenNames">J.V.</span>
+</span>
+; <span class="RefAuthor"><span class="RefSurName">Airoldi</span>
+, <span class="RefGivenNames">C.</span>
+</span>
+ <span class="RefArticleTitle">Effects of adsorbed polyaniline on redox process on As<sub>2</sub>O<sub>3</sub> surface</span>
+. <span class="RefJournalTitle">J. Colloid Interface Sci.</span>
+ <span class="RefYear">2000</span>
+, <span class="RefVolume">227</span>
+ (<span class="RefIssue">1</span>
+), <span class="RefFPage">147</span>
+&ndash;<span class="RefLPage">151</span>
+.</p><p id="CIT0008" class="jrnlRefText"><span class="RefSlNo">8.</span>
+ <span class="RefEditor"><span class="RefSurName">Nalwa</span>
+, <span class="RefGivenName">H.S</span>
+</span>
+.,<span class="RefComments"> Ed. </span>
+<span class="RefBookTitle">Handbook of Organic Conductive Molecules and Polymers</span>
+; <span class="RefPublisherName">John Wiley &amp; Sons</span>
+: <span class="RefPublisherLoc">New York</span>
+, <span class="RefYear">1997</span>
+; <span class="RefVolumes">Vol. 2</span>
+.</p><p id="CIT0009" class="jrnlRefText"><span class="RefSlNo">9.</span>
+ <span class="RefAuthor"><span class="RefSurName">Parker</span>
+, <span class="RefGivenNames">G.A.</span>
+</span>
+ <span class="RefBookTitle">Analytical Chemistry of Molybdenum</span>
+; <span class="RefPublisherName">Springer-Verlag</span>
+: <span class="RefPublisherLoc">New York</span>
+, <span class="RefYear">1983</span>
+.</p><p id="CIT0010" class="jrnlRefText"><span class="RefSlNo">10.</span>
+ <span class="RefAuthor"><span class="RefSurName">Latimer</span>
+, <span class="RefGivenNames">W.M.</span>
+</span>
+ <span class="RefBookTitle">The Oxidation States of the Elements and their potentials in Aqueous Solutions</span>
+; <span class="RefPublisherName">Prentice-Hall</span>
+: <span class="RefPublisherLoc">New Jersey</span>
+, <span class="RefYear">1952</span>
+.</p><p id="CIT0011" class="jrnlRefText"><span class="RefSlNo">11.</span>
+ <span class="RefAuthor"><span class="RefSurName">de Farias</span>
+, <span class="RefGivenNames">R.F.</span>
+</span>
+ <span class="RefArticleTitle">Effect of adsorbed polyaniline on the thermal stability of iron and arsenic oxides</span>
+. <span class="RefJournalTitle">Qu? Nova</span>
+ <span class="RefYear">2000</span>
+, <span class="RefVolume">23</span>
+ (<span class="RefIssue">3</span>
+), <span class="RefFPage">313</span>
+&ndash;<span class="RefLPage">315</span>
+.</p></div></div></body></html><div class="jrnlFigBlock"><p id="F1" class="jrnlFigCaption"><span class="label">Fig. 1</span>
+<span class="caption">Cyclic voltammogram of MoO<sub>3</sub>&thinsp;&middot;&thinsp;pani from &minus;0.2 to 0.9&thinsp;V.</span>
+<img class="jrnlFigures" src="jobs/tandf/ESCS3_Batch1_B02/E-ESCS-120000121/Fig/f0001.gif" alt="f0001.gif"></p></div><div class="jrnlFigBlock"><p id="F2" class="jrnlFigCaption"><span class="label">Fig. 2</span>
+<span class="caption">Cyclic voltammograms of: (<strong>A</strong>) As<sub>2</sub>O<sub>3</sub> from &minus;0.2 to 0.9&thinsp;V; (<strong>B</strong>) from &minus;0.5 to 0.9&thinsp;V; (<strong>C</strong>) As<sub>2</sub>O<sub>3</sub>&thinsp;&middot;&thinsp;pani from &minus;0.2 to 0.9&thinsp;V; and (<strong>D</strong>) from &minus;0.5 to 0.9&thinsp;V.</span>
+<img class="jrnlFigures" src="jobs/tandf/ESCS3_Batch1_B02/E-ESCS-120000121/Fig/f0002.gif" alt="f0002.gif"></p></div>
